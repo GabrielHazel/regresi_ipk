@@ -59,7 +59,7 @@ st.markdown("""
             </div>
             """, unsafe_allow_html=True)
 
-st.markdown("<h1 style='text-align: center; color: #4CAF50;'>Prediksi IPK - 1844</h1>", unsafe_allow_html=True)  # XXXX = 4 digit npm terakhir
+st.markdown("<h1 style='text-align: center; color: #4CAF50;'>Prediksi IPK - 1906</h1>", unsafe_allow_html=True)  # XXXX = 4 digit npm terakhir
 st.markdown("""<p style='text-align: center; color: #0073e6;'>Aplikasi ini berguna untuk memprediksi IPK berdasarkan nilai Matematika, 
             Bahasa Inggris, dan Bahasa Indonesia</p>""", unsafe_allow_html=True)
 
