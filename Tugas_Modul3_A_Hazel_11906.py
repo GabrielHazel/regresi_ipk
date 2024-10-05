@@ -74,7 +74,7 @@ if uploaded_file is not None:
     st.dataframe(input_data)
 
     
-    model_path = r'Ridge_IPK_model.pkl'
+    model_path = r'RR_IPK_model.pkl'
 
     if os.path.exists(model_path):
         with open(model_path, 'rb') as f:
